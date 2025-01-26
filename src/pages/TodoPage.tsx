@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import Todo from '../types/TodoTypes'
 import { Button, Card, CardActions, CardContent, Container, Grid2 as Grid, IconButton, TextField, Typography } from '@mui/material'
 import { Delete as DeleteIcon } from "@mui/icons-material";
